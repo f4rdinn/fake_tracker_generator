@@ -1,4 +1,4 @@
-# tracker.f4rdin
+# fake tracker generator
 
 ফাইল সেভ করুন: কোডটি কপি করে tracker.sh নামে সেভ করুন (nano tracker.sh)।
 
